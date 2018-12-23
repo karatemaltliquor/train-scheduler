@@ -1,0 +1,28 @@
+* {
+    font-family: 'BioRhyme', serif;
+    letter-spacing: 2px;
+}
+
+body {
+    background-image: url(images/older-abilene.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  
+  #yeolde {
+    background-image: url(images/woodbg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  #heading, .panel-title {
+    font-family: 'Ewert', cursive;
+    letter-spacing: 2.5px;
+    color: goldenrod;
+  }  
+  .panel-title {
+    font-weight: bold;
+  }
+  
+  th {
+    font-weight: bold;
+  }
